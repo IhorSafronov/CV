@@ -6,7 +6,12 @@
 
 /* components imports */
 
-@import "./components/_aside.css";
-@import "./components/_main.css";
-@import "./components/_page.css";
-@import "._media.css";
+@import "components/_page";
+@import "components/_aside.css";
+@import "components/_main.css";
+
+/* @import "./components/_aside.css"; */
+
+
+/* @import "./components/_main.css";
+@import "./components/_page.css"; */

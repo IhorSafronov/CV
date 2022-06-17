@@ -1,6 +1,6 @@
 .main {
     max-width: 830px;
-    background-color: var( --main-background-color);
+    background-color: var(--main-background-color);
     border-radius: 0 20px 0 20px 0;
 }
 
