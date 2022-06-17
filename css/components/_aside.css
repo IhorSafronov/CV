@@ -1,0 +1,55 @@
+.aside {
+    min-width: 360px;
+    width: 370px;
+    background-color: var(--aside-background-color);
+    border-radius: 20px 0 0 20px;
+}
+
+.user-photo {
+    margin: 40px 0;
+}
+
+.general-title {
+    margin: 0 0 45px 40px;
+}
+
+.title-skills {
+    margin: 0 0 20px 0;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    color: var(--text-color-light);
+}
+
+.text-title p {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: var(--text-color-light);
+}
+
+.text-title a {
+    padding: 0 0 0 10px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: var(--text-color-light);
+    opacity: 0.5;
+}
+
+.skills-list {
+    color: brown;
+    list-style-type: disc;
+    list-style-position: inside;
+}
+
+.skills-list span {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: var(--text-color-light);
+}

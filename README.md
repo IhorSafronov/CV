@@ -1,2 +1,2 @@
-# CV
- html css figma
+# Mitravel-practic
+HTML CSS JS apaptive figma

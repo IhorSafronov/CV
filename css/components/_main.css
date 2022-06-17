@@ -1,0 +1,124 @@
+.main {
+    max-width: 830px;
+    background-color: var( --main-background-color);
+    border-radius: 0 20px 0 20px 0;
+}
+
+.main-block {
+    max-width: 1025px;
+    padding: 105px 0px 5px 120px;
+}
+
+.desired-position {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    color: var(--text-color-dark);
+    padding: 0 0 20px 0;
+}
+
+.about-user p {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: var(--text-color);
+    padding-right: 50px;
+}
+
+.about-me {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 55px;
+    color: var(--text-color-dark);
+    padding: 0 0 20px 0;
+}
+
+.main-head-title h3 {
+    margin: 30px 0;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    color: var(--text-color-dark);
+}
+
+.projects {
+    display: flex;
+}
+
+.counts p {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: var(--text-color-dark);
+}
+
+.links a {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: var(--text-color);
+    margin: 0 50px 0 10px;
+}
+
+.desript p {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: var(--text-color-dark);
+}
+
+.work-position {
+    margin: 20px 0 0 0;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 20px;
+    color: var(--text-color-dark);
+}
+
+.organization {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 20px;
+    color: var( --text-color-accent);
+}
+
+.period {
+    margin: 10px 0;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 15px;
+    color: var(--text-color-grey);
+}
+
+.line {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: var(--text-color-dark);
+}
+
+.work_list {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: var(--text-color);
+}
+
+.work-list-item {
+    list-style-image: url(../../img/pngegg.png);
+    list-style-position: inside;
+    margin: 0;
+    padding: 0;
+}
