@@ -6,12 +6,10 @@
 
 /* components imports */
 
-@import "components/_page";
-@import "components/_aside.css";
-@import "components/_main.css";
+@import url(components/_aside.css);
+@import url(components/_main.css);
+@import url(components/_page.css);
 
-/* @import "./components/_aside.css"; */
-
-
-/* @import "./components/_main.css";
+/* @import "./components/_aside.css";
+@import "./components/_main.css";
 @import "./components/_page.css"; */
